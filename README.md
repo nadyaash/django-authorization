@@ -1,6 +1,6 @@
 # django-authorization app
 <h5>Simple Login and Registration System in Django</h5>
-Here're some screenshots below.<br>
+Here're some screenshots below.<br><br>
 <p><em>Home page:
 
 ![image](https://user-images.githubusercontent.com/99740967/195078782-18740a98-711f-4eb4-bb29-54db2f10cda9.png)
